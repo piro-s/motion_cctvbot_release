@@ -1,0 +1,19 @@
+# Ignore all files
+*
+
+
+# Don't ignore git files
+!.gitignore
+
+# Don't ignore md
+!*.md
+
+# Don't ignore Images
+!images/**
+
+# Don't ignore program
+!program/**
+
+
+# Even if they are in subdirectories
+!**/
